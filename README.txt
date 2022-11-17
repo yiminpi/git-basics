@@ -1,1 +1,1 @@
-goodbye
+good
